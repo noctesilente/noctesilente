@@ -7,7 +7,7 @@
     </div>
     <br/>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
@@ -39,7 +39,8 @@
 
 </div>
     </div>
-    
+    <br/>
+    <br/>
     
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0e0af5&height=180&section=footer&text=&fontSize=100)
       
