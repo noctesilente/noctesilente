@@ -40,14 +40,14 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
          <a href="https://github.com/noctesilente"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=noctesilente&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true" alt="Jade's github stats" /></a>
     <a href="https://github.com/noctesilente"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noctesilente&layout=compact&theme=nord&hide_border=true" /></a>
-           /> </div> 
+         </div> 
     </div>
 
 </div>
     </div>
     <br/>
     <br/>
-    
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0e0af5&height=180&section=footer&text=&fontSize=100)
-      
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0af5&height=180&section=footer&text=&fontSize=100" />
+          </div>
 
