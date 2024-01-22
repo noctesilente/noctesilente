@@ -28,7 +28,7 @@
     <br/>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
-    <div align= "center"> <a href=https://www.notion.so/SW-4ae34aa17c0141928e7093192b9ecf8a?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/SW-4ae34aa17c0141928e7093192b9ecf8a?pvs=4"> </a>
+    <div align= "center"> <a href=[https://www.notion.so/SW-4ae34aa17c0141928e7093192b9ecf8a?pvs=4](https://boulder-horn-03c.notion.site/SW-4ae34aa17c0141928e7093192b9ecf8a?pvs=4)> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/SW-4ae34aa17c0141928e7093192b9ecf8a?pvs=4"> </a>
          <a href=mailto:mox9nox@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mox9nox@gmail.com"> </a>
           </div>  <br> 
              </div>
