@@ -38,10 +38,9 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align="center">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noctesilente&show_icons=true&locale=en&theme=blue_navy" alt="Jade's GitHub stats" style="height: 150px;" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noctesilente&show_icons=true&locale=en&layout=compact&theme=shadow_discord_old_blurple" alt="Top Langs" style="height: 150px;" />
-  &nbsp;&nbsp;
-  
+    <a href="https://github.com/noctesilente"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=noctesilente&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true" alt="Jade's github stats" /></a>
+    <a href="https://github.com/noctesilente"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noctesilente&layout=compact&theme=nord&hide_border=true" /></a>
+
 
 </div>
     </div>
