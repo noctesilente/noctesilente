@@ -1,42 +1,42 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0af5&height=180&text=Jade's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😎 Contact me </h2> 
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😎 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 ~ 하는 개발자입니다. </div> 
-    </div>
-    <br/>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks - Languages </h2> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,vue,mysql,mariadb,git,github,html,css,javascript" />
-  </a>
-</p>
-          </div>
-    </div>
-    <br/>
-     <br/>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks - Tools </h2> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-          <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <br/>
-          </div>
-    </div>
-    <br/>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
-    <div align= "center"> <a href=https://boulder-horn-03c.notion.site/SW-4ae34aa17c0141928e7093192b9ecf8a?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://boulder-horn-03c.notion.site/SW-4ae34aa17c0141928e7093192b9ecf8a?pvs=4"> </a>
          <a href=mailto:mox9nox@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mox9nox@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
-  <br> 
+    <br/>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks - Languages </h2>  
+          <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,js,mysql" />
+  </a>
+</p>
+          </div>
+    </div>
+     <br/>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks - Tools </h2> 
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,git,github,figma,idea,vscode" />
+  </a>
+</p>
+    </div>
+    <br/>
+     <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Learning... </h2> 
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,docker,aws,githubactions,kubernetes" />
+  </a>
+</p>
+    </div>
+    <br/>
 
   <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
