@@ -9,8 +9,11 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks - Languages </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Matlab&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,mysql,mariadb,git,github,html,css,javascript" />
+  </a>
+</p>
           </div>
     </div>
     <br/>
