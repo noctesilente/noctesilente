@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0af5&height=180&text=Jade's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0af5&height=180&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😎 Contact me </h2> 
@@ -29,7 +29,7 @@
     </div>
     <br/>
      <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Learning... </h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Learning... </h2> 
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,docker,aws,githubactions,kubernetes" />
